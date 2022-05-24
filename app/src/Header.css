@@ -1,0 +1,6 @@
+.logo{margin-left: 70px;}
+.me-2{width: 400px; height: 30px; margin-left: -300px;}
+
+#offcanvasNavbarDropdown{color: white; font-weight: bolder;}
+.navbar-toggler{background-color:white; border: 2px solid black; margin-right: 100px; margin-left: -200px;}
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link{color: #fff;}
